@@ -11,6 +11,7 @@ button of the application window.
 author: Jan Bodnar
 website: zetcode.com
 last edited: August 2011
+*2016*
 """
 
 import sys
