@@ -1,4 +1,5 @@
-import pyautogui, time
+import pyautogui
+import time
 time.sleep(3)
 # pyautogui.click()    # click to put drawing program in focus
 # distance = 0
