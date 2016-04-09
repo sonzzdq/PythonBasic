@@ -2,5 +2,10 @@
 "# Học tập Python với những câu lệnh đơn giản"
 =======
 "# hoc tap Python don gian" 
->>>>>>> origin/master
-aa
+>>>>>>> origin/b
+am nhac
+adfslkj
+dfalkj
+s
+
+
