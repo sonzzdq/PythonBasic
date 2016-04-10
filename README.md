@@ -3,9 +3,10 @@
 =======
 "# hoc tap Python don gian" 
 >>>>>>> origin/b
-am nhac
-adfslkj
-dfalkj
-s
+
+Learn Use ssh Git!
+and python docx, mysql
+
+
 
 
