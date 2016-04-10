@@ -1,0 +1,4 @@
+Thực hiện đa nhiệm
+thoát chương trình
+liên kết với GUI From
+click button

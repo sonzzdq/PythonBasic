@@ -1,6 +1,8 @@
 import datetime
-import pyautogui
+import sys
 import time
+
+import vd
 
 time.sleep(3)
 # pyautogui.click()    # click to put drawing program in focus
@@ -20,4 +22,4 @@ print(NTime)
 f = open('E:\Downloads\demo_file2.txt', 'w')
 f.write(NTime)
 time.sleep(3)
-pyautogui.press('winleft')
+vd.main()
