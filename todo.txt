@@ -1,7 +1,0 @@
-
-use git ssh
-use pyside
-""""""""""""""""""""""""""""""""""
-#convert ui to py
-pyside-uic -o myform.py myform.ui
-#####################################################################
